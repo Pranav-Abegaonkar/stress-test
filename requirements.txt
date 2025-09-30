@@ -1,8 +1,2 @@
 videosdk==0.2.4
-Pillow==10.4.0
-grpcio>=1.56.0
-protobuf>=4.0.0
-asyncio==3.4.3
-pyee==13.0.0
 python-dotenv>=1.0.0
-requests>=2.31.0
